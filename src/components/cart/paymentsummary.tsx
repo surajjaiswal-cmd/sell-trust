@@ -47,7 +47,7 @@ const PaymentSummary: React.FC = () => {
           onChange={(e) => setPromoCode(e.target.value)}
         />
         <button
-          className="btn btn-secondary py-1 rounded-sm"
+          className="btn btn-secondary p-2 rounded-sm"
           onClick={applyPromoCode}>
           Apply
         </button>

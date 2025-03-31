@@ -45,9 +45,15 @@ export const CartProvider: React.FC<{ children: React.ReactNode }> = ({
   }, [cart, isHydrated]);
 
   // Add item to cart
-  const addToCart = (item: CartItem) => {
-    setCart((prevCart) => [...prevCart, item]);
-  };
+ const addToCart = (item: CartItem) => {
+   setCart((prevCart) => {
+     const itemExists = prevCart.some((cartItem) => cartItem.id === item.id);
+     if (itemExists) {
+       return prevCart; // ✅ Prevent duplicates
+     }
+     return [...prevCart, item]; // ✅ Add new item
+   });
+ };
 
   // Remove item from cart
   const removeItem = (id: number) => {

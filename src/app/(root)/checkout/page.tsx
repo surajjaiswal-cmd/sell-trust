@@ -84,7 +84,7 @@ const Checkout = () => {
   };
 
   return (
-    <div className="container mx-auto p-6 w-[80%] md:w-[50%] mt-24 ">
+    <div className="container mx-auto p-6 w-[90%] md:w-[50%] mt-24 ">
       <div className="text-2xl font-bold mb-4 flex justify-start items-center">
         <LuShoppingCart /> <p className="ms-2">Checkout</p>
       </div>

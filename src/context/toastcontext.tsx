@@ -30,7 +30,15 @@ export const ToastProvider = ({ children }: { children: React.ReactNode }) => {
       {children}
       <Toast.Provider swipeDirection="right">
         <Toast.Root
-          className="bg-[#4f4d4d] text-gray shadow-lg p-3 rounded-md fixed bottom-5 right-5 z-100"
+          className="bg-[] text-gray shadow-lg p-3 rounded-md"
+          style={{
+            position: "fixed",
+            bottom: "2rem",
+            right: "1rem",
+            zIndex: "500",
+            padding: ".5rem",
+            backgroundColor: "#e0dede",
+          }}
           open={open}
           onOpenChange={setOpen}>
           <Toast.Title>{message}</Toast.Title>
