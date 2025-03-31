@@ -106,8 +106,8 @@ const LoginPage: React.FC = () => {
 
         <p className="text-center text-sm mt-6">
           New here?{" "}
-          <LinkLoad href="/signup" className="text-blue-500 hover:underline">
-            Create an account
+          <LinkLoad href="/signup" >
+            <span className="text-blue-500 hover:underline">Create an account</span>
           </LinkLoad>
         </p>
       </div>

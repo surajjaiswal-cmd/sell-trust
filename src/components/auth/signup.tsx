@@ -164,9 +164,8 @@ const SignUpPage: React.FC = () => {
         {/* Already have an account? */}
         <p className="text-center text-sm mt-4">
           Already have an account?
-          <a href="/login" className="text-blue-500 hover:underline">
-            {" "}
-            Log in
+          <a href="/login">
+            <span className="text-blue-500 hover:underline">Log In</span>{" "}
           </a>
         </p>
       </div>
