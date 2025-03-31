@@ -1,0 +1,942 @@
+{
+  "topbannerr": [
+    {
+      "image": "/topbanner/topbanner1.png"
+    },
+    {
+      "image": "/topbanner/topbanner2.jpg"
+    },
+    {
+      "image": "/topbanner/topbanner3.jpg"
+    },
+    {
+      "image": "/topbanner/topbanner4.jpg"
+    },
+    {
+      "image": "/topbanner/topbanner5.png"
+    },
+    {
+      "image": "/topbanner/topbanner6.png"
+    },
+    {
+      "image": "/topbanner/topbanner7.jpg"
+    }
+  ],
+
+  "cartservices": [
+    {
+      "id": 6001,
+      "image": "/services/s-img1.jpg",
+      "bio": "Installation and Repair",
+      "categories": "electrician"
+    },
+    {
+      "id": 6002,
+      "image": "/services/s-img2.jpg",
+      "bio": "Hair Studio for Women",
+      "categories": "womansalon"
+    },
+
+    {
+      "id": 6003,
+      "image": "/services/s-img3.jpg",
+      "bio": "Cleaning",
+      "categories": "cleaning"
+    },
+    {
+      "id": 6004,
+      "image": "/services/s-img4.jpg",
+      "bio": "Plumbing",
+      "categories": "plumber"
+    },
+    {
+      "id": 6005,
+      "image": "/services/s-img5.jpg",
+      "bio": "Hair Studio for man",
+      "categories": "mensalon"
+    },
+    {
+      "id": 6006,
+      "image": "/carpenters/cp-img1.jpg",
+      "bio": "Carpenter",
+      "categories": "carpenter"
+    },
+    {
+      "id": 6007,
+      "image": "/womenspa/ws-img6.jpg",
+      "bio": "Women Spa",
+      "categories": "womanspa"
+    },
+    {
+      "id": 6008,
+      "image": "/menmassage/mm-img7.jpg",
+      "bio": "Men Massage",
+      "categories": "menmassage"
+    }
+  ],
+
+  "newservices": [
+    {
+      "image": "/newservices/ns-img1.jpg",
+      "name": "Native Water Purifier",
+      "categories": "installation",
+      "id": 1001
+    },
+    {
+      "image": "/newservices/ns-img2.jpg",
+      "name": "Soler Installation & Cleaning",
+      "categories": "installation",
+      "id": 1002
+    },
+    {
+      "image": "/newservices/ns-img3.jpg",
+      "name": "Hair Studio For Women",
+      "categories": "womansalon",
+      "id": 1003
+    },
+    {
+      "image": "/newservices/ns-img4.jpg",
+      "name": "Bathroom & Kitchen Cleaning",
+      "categories": "cleaning",
+      "id": 1004
+    },
+    {
+      "image": "/newservices/ns-img5.jpg",
+      "name": "House Painting",
+      "categories": "repair",
+      "id": 1005
+    }
+  ],
+
+  "mostbookservices": [
+    {
+      "image": "/mbs/mbs-img1.jpg",
+      "name": "Delux Pedicure",
+      "price": 300,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "1 hrs 20 min",
+      "id": 1006,
+      "categories": "womansalon"
+    },
+    {
+      "image": "/mbs/mbs-img2.jpg",
+      "name": "Switch/Soket Replacement",
+      "price": 120,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": " 30 min",
+      "id": 1007,
+      "categories": "electrician"
+    },
+    {
+      "image": "/mbs/mbs-img3.jpg",
+      "name": "Sofa Cleaning",
+      "price": 250,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "50 min",
+      "id": 1008,
+      "categories": "cleaning"
+    },
+    {
+      "image": "/mbs/mbs-img4.jpg",
+      "name": "Spa For Women",
+      "price": 999,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": " 2 hrs",
+      "id": 1009,
+      "categories": "womansalon"
+    },
+    {
+      "image": "/mbs/mbs-img5.jpg",
+      "name": "Bathroom cleaning",
+      "price": 240,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "2 hrs 30 min",
+      "id": 1010,
+      "categories": "cleaning"
+    },
+    {
+      "image": "/mbs/mbs-img6.jpg",
+      "name": "Tap Repair",
+      "price": 300,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "1 hrs 30 min",
+      "id": 1011,
+      "categories": "cleaning"
+    },
+    {
+      "image": "/mbs/mbs-img7.jpg",
+      "name": "Wasching Machine Repair",
+      "price": 500,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "1 hrs",
+      "id": 1012,
+      "categories": "electrician"
+    },
+    {
+      "image": "/mbs/mbs-img8.jpg",
+      "name": "AC Cleaning",
+      "price": 300,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "40 min",
+      "id": 1013,
+      "categories": "cleaning"
+    },
+    {
+      "image": "/mbs/mbs-img9.jpg",
+      "name": "Fan Repair",
+      "price": 200,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "30 min",
+      "id": 1014,
+      "categories": "installation"
+    },
+    {
+      "image": "/mbs/mbs-img10.jpg",
+      "name": "Car Wash",
+      "price": 400,
+      "vendor": "Suraj Jaiswal",
+      "reviwes": "4.86 (18K reviews)",
+      "time": "45 min",
+      "id": 1015,
+      "categories": "cleaning"
+    }
+  ],
+
+  "quickhome": [
+    {
+      "image": "/homecleaning/hc-img1.jpg",
+      "categories": "cleaning",
+      "name": "Clining",
+      "id": 1016
+    },
+    {
+      "image": "/services/s-img1.2.jpg",
+      "categories": "installation",
+      "name": "Installation",
+      "id": 1017
+    },
+    {
+      "image": "/homerepair/hr-img1.jpg",
+      "categories": "electrician",
+      "name": "Electrician",
+      "id": 1018
+    },
+    {
+      "image": "/mbs/mbs-img6.jpg",
+      "categories": "plumber",
+      "name": "Plumber",
+      "id": 1019
+    },
+    {
+      "image": "/newservices/ns-img5.jpg",
+      "categories": "repair",
+      "name": "House Painting",
+
+      "id": 1020
+    },
+    {
+      "image": "/Carpenters/cp-img1.jpg",
+      "categories": "carpenter",
+      "name": "Carpenters",
+      "id": 1021
+    },
+    {
+      "image": "/homecleaning/hc-img4.jpg",
+      "categories": "cleaning",
+      "name": "Car wash",
+      "id": 1022
+    }
+  ],
+
+  "salon_spas": [
+    {
+      "categories": "womansalon",
+      "name": "Hair Care",
+      "image": "/womansalon/ws-img5.jpg",
+      "id": 1023
+    },
+    {
+      "categories": "mensalon",
+      "name": "Hair Cut",
+      "image": "/mankidsalon/mks-img1.jpg",
+      "id": 1024
+    },
+    {
+      "categories": "mensalon",
+      "name": "Kid's Hair Cut",
+      "image": "/mankidsalon/mks-img5.jpg",
+      "id": 1025
+    },
+    {
+      "categories": "womanspa",
+      "name": "Women Spa",
+      "image": "/womenspa/ws-img7.jpg",
+      "id": 1026
+    },
+    {
+      "image": "/menmassage/mm-img7.jpg",
+      "categories": "menmassage",
+      "name": "Men Massage",
+      "id": 1027
+    },
+    {
+      "image": "/womansalon/ws-img6.jpg",
+      "categories": "womansalon",
+      "name": "Waxing",
+      "id": 1028
+    },
+    {
+      "image": "/womansalon/ws-img2.jpg",
+      "categories": "womansalon",
+      "name": "Facial & Cleanup",
+      "id": 1029
+    }
+  ],
+
+  "homecleaning": [
+    {
+      "image": "/homecleaning/hc-img1.jpg",
+      "name": "Kitchen Cleaning",
+      "categories": "cleaning",
+      "id": 1030,
+      "price": 150,
+      "vendor": "Yash Patel",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/homecleaning/hc-img2.jpg",
+      "name": "Floor Cleaning",
+      "categories": "cleaning",
+      "id": 1031,
+      "price": 150,
+      "vendor": "Yash Patel",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/homecleaning/hc-img3.jpg",
+      "name": "Sofa Cleaning",
+      "categories": "cleaning",
+      "id": 1032,
+      "price": 150,
+      "vendor": "Yash Patel",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/homecleaning/hc-img4.jpg",
+      "name": "Car wash ",
+      "categories": "cleaning",
+      "id": 1033,
+      "price": 150,
+      "vendor": "Yash Patel",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/homecleaning/hc-img5.jpg",
+      "name": "AC Cleaning ",
+      "categories": "cleaning",
+      "id": 1034,
+      "price": 150,
+      "vendor": "Yash Patel",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/homecleaning/hc-img6.jpg",
+      "name": "Garden Cleaning",
+      "categories": "cleaning",
+      "id": 1035,
+      "price": 150,
+      "vendor": "Yash Patel",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ],
+
+  "electrician": [
+    {
+      "id": 1036,
+      "image": "/homerepair/hr-img1.jpg",
+      "name": "Washing Machine Repair",
+      "price": 500,
+      "vendor": "Karan Mali",
+      "time": "60 min",
+      "reviwes": "4.8 (84K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1037,
+      "image": "/homerepair/hr-img2.webp",
+      "name": "Water Purifier Repair",
+      "price": 1500,
+      "vendor": "Karan Mali",
+      "time": "2 hrs",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1038,
+      "image": "/homerepair/hr-img3.jpg",
+      "name": "Refrigerator Repair",
+      "price": 700,
+      "vendor": "Karan Mali",
+      "time": "60 min",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1039,
+      "image": "/homerepair/hr-img4.jpg",
+      "name": "Microwave Repair",
+      "price": 2000,
+      "vendor": "Karan Mali",
+      "time": "50 min",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1040,
+      "image": "/homerepair/hr-img5.jpg",
+      "name": "Door Repair",
+      "price": 300,
+      "vendor": "Karan Mali",
+      "time": "40 min",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1041,
+      "image": "/homerepair/hr-img6.jpg",
+      "name": "Fan Repair",
+      "price": 250,
+      "vendor": "Karan Mali",
+      "time": "1 hr",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1042,
+      "image": "/homerepair/hr-img7.jpg",
+      "name": "Geyser Repair",
+      "price": 700,
+      "vendor": "Karan Mali",
+      "time": "45 min",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1043,
+      "image": "/homerepair/hr-img8.jpg",
+      "name": "TV Installation",
+      "price": 700,
+      "vendor": "Karan Mali",
+      "time": "45 min",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    },
+    {
+      "id": 1044,
+      "image": "/homerepair/hr-img9.jpg",
+      "name": "Chimney Repair",
+      "price": 200,
+      "vendor": "Karan Mali",
+      "time": "45 min",
+      "reviwes": "4.82 (684K)",
+      "categories": "electrician"
+    }
+  ],
+
+  "womanslone": [
+    {
+      "image": "/womansalon/ws-img1.jpg",
+      "name": "Bleach & Detan",
+      "categories": "womansalon",
+      "id": 1045,
+      "price": 150,
+      "vendor": "Monika Sen",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womansalon/ws-img2.jpg",
+      "name": "Facial & Cleanup",
+      "categories": "womansalon",
+      "id": 1046,
+      "price": 150,
+      "vendor": "Monika Sen",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womansalon/ws-img3.jpg",
+      "name": "Manicure",
+      "categories": "womansalon",
+      "id": 1047,
+      "price": 150,
+      "vendor": "Monika Sen",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womansalon/ws-img4.jpg",
+      "name": "Pedicure",
+      "categories": "womansalon",
+      "id": 1048,
+      "price": 150,
+      "vendor": "Monika Sen",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womansalon/ws-img5.jpg",
+      "name": "Hair Care",
+      "categories": "womansalon",
+      "id": 1049,
+      "price": 150,
+      "vendor": "Monika Sen",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womansalon/ws-img6.jpg",
+      "name": "Waxin",
+      "categories": "womansalon",
+      "id": 1050,
+      "price": 150,
+      "vendor": "Monika Sen",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ],
+
+  "womanspa": [
+    {
+      "image": "/womenspa/ws-img1.avif",
+      "name": "Stress Relief",
+      "categories": "womanspa",
+      "id": 1077,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womenspa/ws-img2.jpg",
+      "name": "Full Body Massage",
+      "categories": "womanspa",
+      "id": 1078,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womenspa/ws-img3.avif",
+      "name": "Face Massage",
+      "categories": "womanspa",
+      "id": 1079,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womenspa/ws-img4.jpg",
+      "name": "Leg Pain Relief ",
+      "categories": "womanspa",
+      "id": 1080,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womenspa/ws-img5.jpg",
+      "name": "Deep Tissue Pain Relief",
+      "categories": "womanspa",
+      "id": 1081,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womenspa/ws-img6.jpg",
+      "name": "Back Pain Relief Massage",
+      "categories": "womanspa",
+      "id": 1082,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/womenspa/ws-img7.jpg",
+      "name": "Shoulder Massage",
+      "categories": "womanspa",
+      "id": 1083,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ],
+
+  "menkidsalon": [
+    {
+      "image": "/mankidsalon/mks-img1.jpg",
+      "name": "Hair Cut",
+      "categories": "mensalon",
+      "id": 1051,
+      "price": 150,
+      "vendor": "Nayan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/mankidsalon/mks-img2.jpg",
+      "name": "Hair Wash",
+      "categories": "mensalon",
+      "id": 1052,
+      "price": 150,
+      "vendor": "Nayan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/mankidsalon/mks-img3.jpg",
+      "name": "Shave",
+      "categories": "mensalon",
+      "id": 1053,
+      "price": 150,
+      "vendor": "Nayan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/mankidsalon/mks-img4.jpg",
+      "name": "Bleach",
+      "categories": "mensalon",
+      "id": 1054,
+      "price": 150,
+      "vendor": "Nayan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/mankidsalon/mks-img5.jpg",
+      "name": "kids Hair Cut",
+      "categories": "mensalon",
+      "id": 1055,
+      "price": 150,
+      "vendor": "Nayan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ],
+
+  "menmassage": [
+    {
+      "image": "/menmassage/mm-img1.jpg",
+      "name": "Face Massage",
+      "categories": "menmassage",
+      "id": 1084,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/menmassage/mm-img2.jpg",
+      "name": "Head Massage",
+      "categories": "menmassage",
+      "id": 1085,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/menmassage/mm-img3.jpg",
+      "name": "Shoulder Pain Relief",
+      "categories": "menmassage",
+      "id": 1086,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/menmassage/mm-img4.jpg",
+      "name": "Top-to-toe Stress Relief",
+      "categories": "menmassage",
+      "id": 1087,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/menmassage/mm-img5.jpg",
+      "name": "Foot Maasge",
+      "categories": "menmassage",
+      "id": 1088,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/menmassage/mm-img6.jpg",
+      "name": "Tissue Pain Relief ",
+      "categories": "menmassage",
+      "id": 1089,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/menmassage/mm-img7.jpg",
+      "name": "Back Pain Relief Massage",
+      "categories": "menmassage",
+      "id": 1090,
+      "price": 150,
+      "vendor": "Neha",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ],
+
+  "plumber": [
+    {
+      "image": "/plumber/pb-img1.jpg",
+      "name": "Basine Fiting",
+      "categories": "plumber",
+      "id": 1056,
+      "price": 150,
+      "vendor": "Pawan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/plumber/pb-img2.jpg",
+      "name": "Water Leak Repair",
+      "categories": "plumber",
+      "id": 1057,
+      "price": 150,
+      "vendor": "Pawan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/plumber/pb-img3.jpg",
+      "name": "Comode Fiting ",
+      "categories": "plumber",
+      "id": 1058,
+      "price": 150,
+      "vendor": "Pawan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/plumber/pb-img4.jpg",
+      "name": "Tap Fiting & Repair",
+      "categories": "plumber",
+      "id": 1059,
+      "price": 150,
+      "vendor": "Pawan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/plumber/pb-img5.jpg",
+      "name": "Flush Tank Repair",
+      "categories": "plumber",
+      "id": 1060,
+      "price": 150,
+      "vendor": "Pawan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/plumber/pb-img6.jpg",
+      "name": "Shower Packege Fiting",
+      "categories": "plumber",
+      "id": 1061,
+      "price": 150,
+      "vendor": "Pawan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/plumber/pb-img7.jpg",
+      "name": "Water Tank Repair",
+      "categories": "plumber",
+      "id": 1062,
+      "price": 150,
+      "vendor": "Pawan",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ],
+
+  "carpenter": [
+    {
+      "image": "/carpenters/cp-img1.jpg",
+      "name": "Table Make & Repair",
+      "categories": "carpenter",
+      "id": 1063,
+      "price": 150,
+      "vendor": "Shubham",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/carpenters/cp-img2.jpg",
+      "name": "Almirah Make & Repair",
+      "categories": "carpenter",
+      "id": 1064,
+      "price": 150,
+      "vendor": "Shubham",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/carpenters/cp-img3.jpg",
+      "name": "Door Fiting ",
+      "categories": "carpenter",
+      "id": 1065,
+      "price": 150,
+      "vendor": "Shubham",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/carpenters/cp-img4.jpg",
+      "name": "Drawer Make & Repair",
+      "categories": "carpenter",
+      "id": 1066,
+      "price": 150,
+      "vendor": "Shubham",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/carpenters/cp-img5.jpeg",
+      "name": "Chair Make & Repair",
+      "categories": "carpenter",
+      "id": 1067,
+      "price": 150,
+      "vendor": "Shubham",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/carpenters/cp-img6.png",
+      "name": "Bed Make & Repair",
+      "categories": "carpenter",
+      "id": 1068,
+      "price": 150,
+      "vendor": "Shubham",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/carpenters/cp-img7.jpg",
+      "name": "Drawer Channel Repair",
+      "categories": "carpenter",
+      "id": 1069,
+      "price": 150,
+      "vendor": "Shubham",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ],
+
+  "installation": [
+    {
+      "image": "/installation/ec-img1.jpg",
+      "name": "Air Conditioner Installation",
+      "categories": "installation",
+      "id": 1070,
+      "price": 150,
+      "vendor": "Nikhil",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/installation/ec-img2.jpg",
+      "name": "Wasching Machine Installation",
+      "categories": "installation",
+      "id": 1071,
+      "price": 150,
+      "vendor": "Nikhil",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/installation/ec-img3.jpg",
+      "name": "Water Purifier Installation",
+      "categories": "installation",
+      "id": 1072,
+      "price": 150,
+      "vendor": "Nikhil",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/installation/ec-img4.jpg",
+      "name": "Switch/Soket Boared",
+      "categories": "installation",
+      "id": 1073,
+      "price": 150,
+      "vendor": "Nikhil",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/installation/ec-img5.png",
+      "name": "TV Installation",
+      "categories": "installation",
+      "id": 1074,
+      "price": 150,
+      "vendor": "Nikhil",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/installation/ec-img6.jpg",
+      "name": "Geyser Installation",
+      "categories": "installation",
+      "id": 1075,
+      "price": 150,
+      "vendor": "Nikhil",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    },
+    {
+      "image": "/installation/ec-img7.jpg",
+      "name": "Soler Pannel Installation",
+      "categories": "installation",
+      "id": 1076,
+      "price": 150,
+      "vendor": "Nikhil",
+      "time": "60 min",
+      "reviwes": "4.82 (684K reviews)"
+    }
+  ]
+
+}
